@@ -15,7 +15,7 @@ Files included in this exercise:
 - [?] predict.m - Logistic Regression Prediction Function
 - [?] costFunctionReg.m - Regularized Logistic Regression Cost
 
-? indicates necessary exercies
+? indicates necessary exercises
 
 Throughout the exercise, the scripts ex2.m and ex2reg.m set up the dataset for the problems and make calls to functions in the files listed above.
 
